@@ -98,8 +98,7 @@
       "targets": [
         {
           "datasource": {
-            "type": "prometheus",
-            "uid": "y9KQUszVz"
+            "type": "prometheus"
           },
           "exemplar": true,
           "expr": "DCGM_FI_DEV_GPU_UTIL{exported_container!=\"\"}",
@@ -184,8 +183,7 @@
       "targets": [
         {
           "datasource": {
-            "type": "prometheus",
-            "uid": "y9KQUszVz"
+            "type": "prometheus"
           },
           "exemplar": true,
           "expr": "DCGM_FI_DEV_FB_USED{exported_container!=\"\"}",
@@ -270,8 +268,7 @@
       "targets": [
         {
           "datasource": {
-            "type": "prometheus",
-            "uid": "y9KQUszVz"
+            "type": "prometheus"
           },
           "exemplar": true,
           "expr": "DCGM_FI_PROF_SM_ACTIVE{exported_container!=\"\"}",
@@ -355,8 +352,7 @@
       "targets": [
         {
           "datasource": {
-            "type": "prometheus",
-            "uid": "y9KQUszVz"
+            "type": "prometheus"
           },
           "exemplar": true,
           "expr": "DCGM_FI_PROF_SM_OCCUPANCY{exported_container!=\"\"}",
@@ -440,8 +436,7 @@
       "targets": [
         {
           "datasource": {
-            "type": "prometheus",
-            "uid": "y9KQUszVz"
+            "type": "prometheus"
           },
           "exemplar": true,
           "expr": "DCGM_FI_PROF_PIPE_TENSOR_ACTIVE{exported_container!=\"\"}",
@@ -525,8 +520,7 @@
       "targets": [
         {
           "datasource": {
-            "type": "prometheus",
-            "uid": "y9KQUszVz"
+            "type": "prometheus"
           },
           "exemplar": true,
           "expr": "DCGM_FI_PROF_PIPE_FP32_ACTIVE{exported_container!=\"\"}",
@@ -611,8 +605,7 @@
       "targets": [
         {
           "datasource": {
-            "type": "prometheus",
-            "uid": "y9KQUszVz"
+            "type": "prometheus"
           },
           "exemplar": true,
           "expr": "DCGM_FI_PROF_PIPE_FP32_ACTIVE{exported_container!=\"\"}",
@@ -696,8 +689,7 @@
       "targets": [
         {
           "datasource": {
-            "type": "prometheus",
-            "uid": "y9KQUszVz"
+            "type": "prometheus"
           },
           "exemplar": true,
           "expr": "DCGM_FI_PROF_PIPE_FP16_ACTIVE{exported_container!=\"\"}",
@@ -782,8 +774,7 @@
       "targets": [
         {
           "datasource": {
-            "type": "prometheus",
-            "uid": "y9KQUszVz"
+            "type": "prometheus"
           },
           "exemplar": true,
           "expr": "DCGM_FI_PROF_PCIE_TX_BYTES{exported_container!=\"\"}",
@@ -868,8 +859,7 @@
       "targets": [
         {
           "datasource": {
-            "type": "prometheus",
-            "uid": "y9KQUszVz"
+            "type": "prometheus"
           },
           "exemplar": true,
           "expr": "DCGM_FI_PROF_PCIE_TX_BYTES{exported_container!=\"\"}",
@@ -954,8 +944,7 @@
       "targets": [
         {
           "datasource": {
-            "type": "prometheus",
-            "uid": "y9KQUszVz"
+            "type": "prometheus"
           },
           "exemplar": true,
           "expr": "DCGM_FI_PROF_NVLINK_TX_BYTES{exported_container!=\"\"}",
@@ -1040,8 +1029,7 @@
       "targets": [
         {
           "datasource": {
-            "type": "prometheus",
-            "uid": "y9KQUszVz"
+            "type": "prometheus"
           },
           "exemplar": true,
           "expr": "DCGM_FI_PROF_NVLINK_RX_BYTES{exported_container!=\"\"}",
@@ -1126,8 +1114,7 @@
       "targets": [
         {
           "datasource": {
-            "type": "prometheus",
-            "uid": "y9KQUszVz"
+            "type": "prometheus"
           },
           "exemplar": true,
           "expr": "DCGM_FI_DEV_MEM_COPY_UTIL{exported_container!=\"\"}",
